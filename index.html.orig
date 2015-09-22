@@ -4,7 +4,10 @@
 	   Text
 	   sum other text will be brought here
 	   ok if u find smth special in this txt? alert me
-	   <p>new brach, new rules</p>  
+<<<<<<< HEAD
+	 <p>new brach, new rules</p>  
+=======
 	   <div>i am master</div>
+>>>>>>> master
 	</body>
 </html>
